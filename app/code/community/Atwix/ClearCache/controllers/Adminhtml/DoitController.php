@@ -10,7 +10,7 @@
  * It is also available through the world-wide-web at this URL:
  * http://opensource.org/licenses/osl-3.0.php
  *
- * @category   Atwox
+ * @category   Atwix
  * @package    Atwix_ClearCache
  * @copyright  Copyright (c) 2011 Atwix (http://www.atwix.com)
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
